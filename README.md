@@ -5,11 +5,14 @@ Data Source(s)
 
 Research
 https://www.bloomberg.com/
+
 https://www.marketwatch.com/
 
 Downloads of Datasets
 https://finance.yahoo.com/
+
 https://www.barchart.com/
+
 https://www.kaggle.com/camnugent/sandp500
 
 Purpose/Goal (short/medium term) = Use python, data science and education in finance to extract insights from stock data sets by building visualizations
