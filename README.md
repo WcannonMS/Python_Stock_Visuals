@@ -4,7 +4,7 @@ Analysis and Visualizations of the S&P 500 and various stocks, and custom equity
 Data Source(s)
 
 Research
-https://www.bloomberg.com/
+www.bloomberg.com
 
 https://www.marketwatch.com/
 
