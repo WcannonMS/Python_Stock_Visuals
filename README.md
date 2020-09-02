@@ -1,11 +1,13 @@
 # PythonStockVisuals_WilliamC
 Analysis and Visualizations of the S&P 500 and various stocks, and custom equity portfolios 
 
-Data Source(s):
-#Research
+Data Source(s)
+
+Research
 https://www.bloomberg.com/
 https://www.marketwatch.com/
-#Downloads of Datasets
+
+Downloads of Datasets
 https://finance.yahoo.com/
 https://www.barchart.com/
 https://www.kaggle.com/camnugent/sandp500
