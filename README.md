@@ -11,6 +11,7 @@ https://www.barchart.com/
 https://www.kaggle.com/camnugent/sandp500
 
 Purpose/Goal (short/medium term) = Use python, data science and education in finance to extract insights from stock data sets by building visualizations
+
 Purpose/Goal (long term) = Wrap all of the above into an API structure that automatically updates all plots and bokeh applications at the end of every trading session
 
 Initial Ideas of Stocks and Portfolios to analyze and visualize:
