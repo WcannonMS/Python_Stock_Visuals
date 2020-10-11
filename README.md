@@ -36,3 +36,7 @@ Plan for this porject:
 - Build and Deploy an API strucutre that can retreieve & update this data automatically 
 - Begin exploring visualizations of other asset classes beyond equities (Fixed Income, Currency, Derivatives)
 - Build comparative visualizations in Tableau, Matplotlib, R and any finance python packages
+
+Project Notes:
+- The starting point for the data is 11/18/2010.  That is the first session where all 3 companies are traded.
+- IPO Dates: FORD (F) = May 15th 1956, General Motors (GM) = November 17th 2010, Tesla (TSLA) = June 9th 2010
