@@ -20,15 +20,15 @@ Purpose/Goal (short/medium term) = Use python, data science and education in fin
 Purpose/Goal (long term) = Wrap all of the above into an API structure that automatically updates all plots and bokeh applications at the end of every trading session
 
 Initial Ideas of Stocks and Portfolios to analyze and visualize:
-A. Tesla (TSLA) vs Ford Motor Co. (F) and General Motors Co. (GM) since TESLA's IPO
-B. Top 3 social media compaines performance since IPOs: Facebook (FB) vs Twitter (TWTR) vs Snap Inc. (SNAP) 
-C. Apple Inc. (AAPL) VERZUZ Haters: Alphabet Inc. (GOOG), Microsoft Corp. (MSFT) since the last IPO forward 
-D. Amazon.COM Inc. (AMZN) vs Big Box Retail Target (TGT), Walmart (WMT) and Costco Wholesale Corp. (COST)
-E. Luxury/Designer brand stock performance: Ralph Lauren Corp. (RL), LVMH Moet Hennessy Louis Vuitton (LVMUY), Tiffany & Co. (TIF) and Burberry Group (BURBY) 
-F. Clothing/Retail brand performance: Levis Strauss & Co. (LEVI), Nike Inc. (NKE), Adidas (ADDYY), Gap Inc. (GPS), Under Armour (UAA), Guess? Inc. (GES) and Steve Madden (SHOO)
-G. Several decades of S&P 500 data for seasonality trends {implement Add Buttons, Widgets and the Bokeh Workflow}
-H. Several decades of leading indicators against the S&P 500 {Potentially build an application around this}
-I. Measure a real estate investment of $$$,$$$.$$ against an exact dollar investment in equities across several decades 
+- Tesla (TSLA) vs Ford Motor Co. (F) and General Motors Co. (GM) since TESLA's IPO
+- Top 3 social media compaines performance since IPOs: Facebook (FB) vs Twitter (TWTR) vs Snap Inc. (SNAP) 
+- Apple Inc. (AAPL) VERZUZ Haters: Alphabet Inc. (GOOG), Microsoft Corp. (MSFT) since the last IPO forward 
+- Amazon.COM Inc. (AMZN) vs Big Box Retail Target (TGT), Walmart (WMT) and Costco Wholesale Corp. (COST)
+- Luxury/Designer brand stock performance: Ralph Lauren Corp. (RL), LVMH Moet Hennessy Louis Vuitton (LVMUY), Tiffany & Co. (TIF) and Burberry Group (BURBY) 
+- Clothing/Retail brand performance: Levis Strauss & Co. (LEVI), Nike Inc. (NKE), Adidas (ADDYY), Gap Inc. (GPS), Under Armour (UAA), Guess? Inc. (GES) and Steve Madden (SHOO)
+- Several decades of S&P 500 data for seasonality trends {implement Add Buttons, Widgets and the Bokeh Workflow}
+- Several decades of leading indicators against the S&P 500 {Potentially build an application around this}
+- Measure a real estate investment of $$$,$$$.$$ against an exact dollar investment in equities across several decades 
 
 Plan for this porject:
 - Build visualizations to tell stories behind performance and volitility 
