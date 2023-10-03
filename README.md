@@ -17,7 +17,7 @@ https://www.kaggle.com/camnugent/sandp500
 
 Purpose/Goal (short/medium term) = Use python, data science and education in finance to extract insights from stock data sets by building visualizations
 
-Purpose/Goal (long term) = Wrap all of the above into an API structure that automatically updates all plots and bokeh applications at the end of every trading session
+Purpose/Goal (long term) = Wrap all of the above into an API structure that automatically updates all plots and bokeh applications at the end of every trading session 
 
 Initial Ideas of Stocks and Portfolios to analyze and visualize:
 - Tesla (TSLA) vs Ford Motor Co. (F) and General Motors Co. (GM) since TESLA's IPO
@@ -40,3 +40,4 @@ Plan for this porject:
 Project (A) Notes:
 - The starting point for the data is 11/18/2010.  That is the first session where all 3 companies are traded.
 - IPO Dates: FORD (F) = May 15th 1956, General Motors (GM) = November 17th 2010, Tesla (TSLA) = June 9th 2010
+- Date Period = Ten full years from 11/18/2010 to 11/18/2020 (10/2/2023 WEC)
