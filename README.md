@@ -10,7 +10,7 @@ https://www.marketwatch.com/
 
 Downloads of Datasets
 https://finance.yahoo.com/
-
+https://pypi.org/project/yfinance/ (added 4/2/2024)
 https://www.barchart.com/
 
 https://www.kaggle.com/camnugent/sandp500
